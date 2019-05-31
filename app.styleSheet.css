@@ -1,0 +1,37 @@
+#over{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+#menu{
+    background-color: #202020;
+    color: white;
+    padding: 5px;
+}
+
+#menu a{
+    margin-left: 150px;
+    background-color: red;
+    padding: 5px;
+}
+
+#main .p{
+    width: 70%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu .p{
+    display: inline-block;
+}
+
+#content{
+    height: 100%;
+}
+
+#content p{
+    vertical-align: middle;
+    text-align: center;
+}
